@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/documents/HenriqueResume.pdf
 
-url: http://henriquesilveira.me
+url: https://henrisilver.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
