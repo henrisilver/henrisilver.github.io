@@ -22,7 +22,7 @@ It commonly works like this: students can choose a subject they like and then lo
 
 The project aimed to investigate the potential of different Deep Learning algorithms in the analysis of gene expression data for cancer diagnosis. To do that, I used public domain gene expression datasets in multiple experiments that consisted of an automated pipeline, combining different Machine Learning techniques and comprehending three phases: balancing data, data dimensionality reduction and data classification.
 
-![Pipeline]({{ site.url }}/{{ page.pipelinepicture }})
+[![Pipeline]({{ site.url }}/{{ page.pipelinepicture }})]({{ site.url }}/{{ page.pipelinepicture }})
 
 The experiments involved three different Deep Learning Architectures: Stacked Denoising Autoencoders, for data dimensionality reduction; and Multilayer Perceptron and Convolutional Neural Networks, for data classification. The results demonstrated good performance of the Deep Learning techniques: the Stacked Denoising Autoencoder presented good performance compared to other data dimensionality reduction techniques, indicating that it can potentially aid in the analysis of highly dimensional data such as gene expression data. Furthermore, the Deep Learning models presented the best results among the classification techniques, and the performance of the Convolutional Neural Networks may indicate suitability to use the convolution operation in the analysis of gene expression data.
 
