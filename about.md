@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>My name is Henrique Silveira and I am a Computer Engineer. Currently, I work as a Software Engineer at Microsoft. My interests include Software Engineering, Artificial Intelligence and Machine Learning. I am fascinated by science and technology and I am eager to make the world a better place!
+<p>Hi! My name is Henrique Silveira and I am a Computer Engineer. Currently, I work as a Software Engineer at Microsoft. My interests include Software Engineering, Artificial Intelligence and Machine Learning. I am fascinated by science and technology and I am eager to make the world a better place!
 </p>
 {: .text-justify}
 
